@@ -1,0 +1,2 @@
+C:\Users\Computador Pessoal\Documents\Dark Projects\Scripting\Sol Language\SolLanguage\Tokenizer\bin\Release\Tokenizer.dll
+C:\Users\Computador Pessoal\Documents\Dark Projects\Scripting\Sol Language\SolLanguage\Tokenizer\obj\Release\Tokenizer.dll
