@@ -1,0 +1,35 @@
+ID
+{
+ OpenParenthesis : Method Call
+ Bind : Field Set
+}
+Variable
+{
+ MakeVar
+}
+Function
+{
+ MakeFunction
+}
+For
+{
+ ForLoop
+}
+OpenBrackets
+{
+ DeclareImplicitArray
+}
+
+Fields x1
+Expression
+get:126ms,521ticks,563ticks
+set:142ms,521ticks,593ticks
+
+Reflection
+get:114ms,610ticks,593ticks
+set:135ms,593ticks,593ticks
+Methods x1000
+Expression
+145ms,17ms,14ms,37ms,15ms
+Reflection
+121ms,19ms,17ms,17ms,16ms
