@@ -1,0 +1,5 @@
+C:\Users\Computador Pessoal\Documents\Dark Projects\Scripting\Sol Language\SolLanguage\SolConsole\bin\Release\SolConsole.exe
+C:\Users\Computador Pessoal\Documents\Dark Projects\Scripting\Sol Language\SolLanguage\SolConsole\bin\Release\Sol.dll
+C:\Users\Computador Pessoal\Documents\Dark Projects\Scripting\Sol Language\SolLanguage\SolConsole\bin\Release\Tokenizer.dll
+C:\Users\Computador Pessoal\Documents\Dark Projects\Scripting\Sol Language\SolLanguage\SolConsole\obj\Release\SolConsole.csprojResolveAssemblyReference.cache
+C:\Users\Computador Pessoal\Documents\Dark Projects\Scripting\Sol Language\SolLanguage\SolConsole\obj\Release\SolConsole.exe

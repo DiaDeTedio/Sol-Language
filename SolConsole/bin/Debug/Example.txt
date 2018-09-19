@@ -1,0 +1,16 @@
+function toPtr(x, y, z)
+ var ux = $x
+ x = $y
+ y = $z
+ z = ux
+end
+var x = 0
+var y = true
+var z = "Hello World"
+print("First X:"+x)
+print("First Y:"+y)
+print("First Z:"+z)
+toPtr(&x, &y, &z)
+print("Mod X:"+x)
+print("Mod Y:"+y)
+print("Mod Z:"+z)

@@ -1,0 +1,6 @@
+function log(msg)
+ print(msg)
+end
+print(0)
+print("Hello World" + " OK")
+print( true )
