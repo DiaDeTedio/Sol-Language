@@ -5,19 +5,14 @@ A scripting language for C# use, has reference operators, and support to C# bind
 Sol language is based on Lua, and made by a brazillian too.
 
 Example Code:
-
+```
  // Comment
- 
   function sumFunction(argA, argB)
-  
    return argA + argB;
-   
   end
   
   var x = 38
-  
   var y = 59
-  
   var z = sumFunction(x, y)
   
   print(z)
@@ -27,9 +22,7 @@ Example Code:
   // Sample reference args:
   
   function noReturn(argA, argB, storeResult)
-  
    storeResult = argA * argB
-   
   end
   
   noReturn(x, y, &z)
@@ -37,9 +30,9 @@ Example Code:
   // reference variables:
   
   var z_ptr = &z
-  
   var z_value = $z_ptr
   
   if z == $z_ptr then if z == z_value then print("Ok, pointers is working.")
+  ```
   
   Ok, thanks for using my scripting language.
